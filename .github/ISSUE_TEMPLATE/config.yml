@@ -1,4 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Checkbox group
-    about: group
+  - name: 🎥 Visual Effects Video Playlist 
+    url: https://www.youtube.com/playlist?list...
+    about: View the Visual Effects examples playlist on YouTube
+  - name: 👩‍💻 World of Zero
+    url: https://worldofzero.com
+    about: The World of Zero website
